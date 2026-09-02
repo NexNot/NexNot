@@ -1,6 +1,5 @@
 ## Hi!
 
-- 🔭 I’m currently working on my latest project, ClassMaster, a educational software solution that isn't quite an LMS.
 - 🤖 I'm also working on the programming for the FIRST Robotics Competition (FRC). Go Rancho Reapers (team 8533)!  
 - 🌱 I’m currently learning Java (I mostly program in TypeScript/JS currently)
 
